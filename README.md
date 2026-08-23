@@ -1,6 +1,6 @@
 # Awesome-Talent-Marketplace
 
-# Top Talent Marketplace Platforms Ecosystem
+## Top Talent Marketplace Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Internal Talent Mobility, Skills-Based Matching, Opportunity Marketplaces, Career Pathing & Workforce Agility*
 **Last updated: August 2026**
