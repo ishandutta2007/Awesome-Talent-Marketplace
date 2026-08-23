@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Talent-Marketplace?style=social&label=Forks" alt="GitHub Forks"/>
   <img src="https://img.shields.io/badge/Last%20Updated-August%202026-blue?style=flat-square" alt="Last Updated"/>
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -109,6 +110,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - 📌 This is a **community-curated** list — not exhaustive and not an endorsement.
 - 🔒 Talent marketplace systems process sensitive employee data and influence career opportunities. Open-source solutions provide transparency and ownership but require careful attention to data privacy, bias mitigation, access controls, and integration with formal HR processes.
 - ⚖️ Always ensure compliance with employment law, data protection regulations, and internal equity policies when deploying any matching system.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Talent-Marketplace&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Talent-Marketplace&type=date&legend=top-left)
 
 ---
 
